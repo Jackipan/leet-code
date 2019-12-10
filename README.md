@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-前端菜鸟，希望能做到每日一题或更多，解决办法以JavaScript为主（还不是因为菜）
+前端菜鸟，希望能做到每日一题或更多，解决办法以JavaScript为主（还不是因为菜:laughing:）
 
 ##
 
@@ -12,4 +12,4 @@
 
 ### Support
 
-喜欢的话，欢迎点star~
+喜欢的话，欢迎点star"star"~
