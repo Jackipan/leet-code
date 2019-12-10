@@ -12,4 +12,4 @@
 
 ### Support
 
-喜欢的话，欢迎点star"star"~
+喜欢的话，欢迎点star:star:~
