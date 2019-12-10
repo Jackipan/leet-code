@@ -9,3 +9,11 @@
 实现：   [https://github.com/Jackipan/leet-code/issues/1](https://github.com/Jackipan/leet-code/issues/1 "https://github.com/Jackipan/leet-code/issues/1")
 
 ---
+
+## 第二题： 两数相加
+
+思路：将数组转化为十进制数相加再拆分
+
+实现：   [https://github.com/Jackipan/leet-code/issues/2](https://github.com/Jackipan/leet-code/issues/2 "https://github.com/Jackipan/leet-code/issues/2")
+
+---
